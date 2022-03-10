@@ -1,4 +1,4 @@
-import { fetchDataPromise, fetchDataPromiseReject } from "./Promises.test";
+import { fetchDataPromise, fetchDataPromiseReject } from "./promises.test";
 
 /**
  * Promise 대신 async, await를 사용할 수도 있다. (당연히?)
